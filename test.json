@@ -1,7 +1,7 @@
 {
   "name": "Citty Coin", 
   "symbol": "$CC$",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/jacobjuneau6/crypto/main/test-uri.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
