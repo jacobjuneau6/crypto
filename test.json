@@ -1,0 +1,9 @@
+{
+  "name": "Citty Coin", 
+  "symbol": "$CC$",
+  "uri": "TOKEN_URI",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
